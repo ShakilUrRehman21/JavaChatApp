@@ -1,0 +1,9 @@
+.register-btn {
+    background-color: SlateBlue;
+    border-color: SlateBlue;
+}
+
+.register-btn:hover {
+    background-color: #5c3e91; /* Darker shade of SlateBlue on hover */
+    border-color: #5c3e91; /* Darker shade of SlateBlue on hover */
+}
